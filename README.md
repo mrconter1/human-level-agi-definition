@@ -3,7 +3,7 @@
 > **Human-Level AGI Definition:**  
 > A system has reached human-level AGI when it becomes impossible for humans to create any benchmark where humans reliably outperform the system.
 
-Like many others, I've been amazed by the recent capabilities demonstrated by systems like O1 and O3. As someone deeply interested in AI ([View My AI Projects →](https://www.lindahl.works/#projects)), I've spent recent years trying to create tests that AI cannot pass. This endeavor has become increasingly challenging - and that's actually really interesting when you think about it.
+Like many others, I've been amazed by the recent capabilities demonstrated by systems like O1 and O3. As someone deeply interested in AI ([View My Projects](https://www.lindahl.works/#projects)), I've spent recent years trying to create tests that AI cannot pass. This endeavor has become increasingly challenging - and that's actually really interesting when you think about it.
 
 This challenge of creating tests is intimately connected to how we define human-level AGI. It's as if we've been trying to define it through our attempts to create benchmarks that AI can't solve.
 
