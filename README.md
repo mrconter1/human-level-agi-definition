@@ -7,7 +7,7 @@ Like many others, I've been amazed by the recent capabilities demonstrated by sy
 
 This challenge of creating tests is intimately connected to how we define human-level AGI. It's as if we've been trying to define it through our attempts to create benchmarks that AI can't solve.
 
-![image](https://github.com/user-attachments/assets/0e351b1e-8de0-4417-b097-592736bdadcf)
+<img src="https://github.com/user-attachments/assets/0e351b1e-8de0-4417-b097-592736bdadcf" width="750" alt="Time to Human Level Trend visualization showing the decreasing gap between benchmark release and AI achieving human-level performance">
 
 Today, I launched a website called "[h-matched](https://h-matched.vercel.app/)" that tracks major AI benchmarks and how long it took for AI systems to reach human-level performance on each one. If you look at the data, you'll notice something fascinating - we're approaching a point where it's becoming incredibly difficult to create *any* test where humans can outperform the best AI systems.
 
