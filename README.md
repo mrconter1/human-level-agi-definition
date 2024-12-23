@@ -1,6 +1,6 @@
 # A Robust Definition for Human-Level AGI
 
-Like many others, I've been amazed by the recent capabilities demonstrated by systems like O1 and O3. As someone deeply interested in technology and AI ([View My Projects](https://www.lindahl.works/#projects)), I've spent recent years trying to create tests that AI cannot pass. This endeavor has become increasingly challenging - and that's actually really interesting when you think about it.
+Like many others, I've been amazed by the recent capabilities demonstrated by systems like OpenAI's O1 and O3. As someone deeply interested in technology and AI ([View My Projects](https://www.lindahl.works/#projects)), I've spent recent years trying to create tests that AI cannot pass. This endeavor has become increasingly challenging - and that's actually really interesting when you think about it.
 
 This challenge of creating tests is intimately connected to how we define human-level AGI. It's as if we've been trying to define it through our attempts to create benchmarks that AI can't solve.
 
